@@ -17,7 +17,7 @@ Install dependencies with:
 ```bash
 pip install pyautogui keyboard
 ```
-## 📦 Requisitos (Português) (Português)
+## 📦 Requisitos (Português)
 
 - Python 3.10 ou Superior
 - Sistema Operacional: Windows, Linux ou macOS
