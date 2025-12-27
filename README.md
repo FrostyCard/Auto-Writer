@@ -1,6 +1,8 @@
 # Auto-Writer
 Auto write whatever is on your clipboard
 
+![Interface do programa](Interface.png)
+
 ## 📦 Requirements That You Might Need (English)
 
 - Python 3.10 or higher
@@ -34,5 +36,5 @@ Instale as dependências com:
 pip install pyautogui keyboard
 ```
 
-![Interface do programa](Interface.png)
+
 
