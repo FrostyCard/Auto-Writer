@@ -33,3 +33,6 @@ Instale as dependências com:
 ```bash
 pip install pyautogui keyboard
 ```
+
+![Interface do programa](Inteface.png)
+
