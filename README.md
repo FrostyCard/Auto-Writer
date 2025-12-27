@@ -1,7 +1,7 @@
 # Auto-Writer
 Auto write whatever is on your clipboard
 
-## 📦 Requirements (English)
+## 📦 Requirements That You Might Need (English)
 
 - Python 3.10 or higher
 - Operating System: Windows, Linux, or macOS
@@ -17,7 +17,7 @@ Install dependencies with:
 ```bash
 pip install pyautogui keyboard
 ```
-## 📦 Requisitos (Português)
+## 📦 Requisitos Que Talvez Precise (Português)
 
 - Python 3.10 ou Superior
 - Sistema Operacional: Windows, Linux ou macOS
