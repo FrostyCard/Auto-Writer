@@ -16,7 +16,7 @@ Install dependencies with:
 
 ```bash
 pip install pyautogui keyboard
-
+```
 ## 📦 Requisitos (Português) (Português)
 
 - Python 3.10 ou Superior
@@ -32,4 +32,4 @@ Instale as dependências com:
 
 ```bash
 pip install pyautogui keyboard
-
+```
