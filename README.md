@@ -34,5 +34,5 @@ Instale as dependências com:
 pip install pyautogui keyboard
 ```
 
-![Interface do programa](Inteface.png)
+![Interface do programa](Interface.png)
 
