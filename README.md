@@ -36,5 +36,15 @@ Instale as dependências com:
 pip install pyautogui keyboard
 ```
 
+## ❔Faq
+## English
+- Why does my pc flags it as dangerous.
+R: because its not verified by microsoft, and it costs alot, you can check here if any popular antivirus flags it: [virustotal.com](https://www.virustotal.com)
+
+## Português
+- Por que meu PC sinaliza isso como perigoso?  
+R: porque não é verificado pela Microsoft e o processo de verificação custa caro. Você pode conferir aqui se algum antivírus popular o sinaliza: [virustotal.com](https://www.virustotal.com)
+
+
 
 
