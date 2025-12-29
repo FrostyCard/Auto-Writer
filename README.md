@@ -3,7 +3,7 @@ Auto write whatever is on your clipboard
 
 ![Interface do programa](Interface.png)
 
-## 📦 Requirements That You Might Need (English)
+## 📦 Requirements That You Might Need In Case It Don't Open (English)
 
 - Python 3.10 or higher
 - Operating System: Windows, Linux, or macOS
@@ -19,7 +19,7 @@ Install dependencies with:
 ```bash
 pip install pyautogui keyboard
 ```
-## 📦 Requisitos Que Talvez Precise (Português)
+## 📦 Requisitos Que Talvez Precise Caso Não Abra (Português)
 
 - Python 3.10 ou Superior
 - Sistema Operacional: Windows, Linux ou macOS
